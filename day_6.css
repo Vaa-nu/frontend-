@@ -1,0 +1,21 @@
+p{
+   /* color:blueviolet;  default type color */
+   color:rgb(2, 255, 141); /* RGB color code */
+   color: #028d8d;/* Hexadecimal color code */
+}
+.container{
+    background-color:#ff00ff; /* background color */
+    height:700px;
+    background-image:url("../assests/car image.jpg"); /* background image */
+    background-size: contain; /* cover the entire container */
+    background-repeat: no-repeat; /* prevent image repetition */
+    background-position: center; /* center the image */
+    border:2px solid black; /* border around the container */
+    opacity: 0.6; /* transparency level range-> 0 to 1 */
+}
+/*padding and margin*/
+.class{
+    width:200px;
+    height:200px;
+}
+
